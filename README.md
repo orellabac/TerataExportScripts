@@ -6,7 +6,7 @@ teradata databases.
 
 These scripts are provided as a reference to perform that task.
 
-# How to use this scripts
+# How to use these scripts
 
 Download or clone the repository into your server. Lets say under a folder called `extract`
 
